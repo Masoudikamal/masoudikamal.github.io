@@ -1,13 +1,17 @@
 ﻿---
 layout: single
-title: "Kamal Al Masoudi"
+title: ""
 classes: wide
-header:
-  overlay_image: /assets/hero.gif
-  overlay_filter: "0.35"
-last_modified_at: 2025-08-30T20:24:21
+last_modified_at: 2025-08-30T20:36:53
 ---
 
+<div class="hero-video">
+  <video autoplay loop muted playsinline>
+    <source src="/assets/hero.mp4" type="video/mp4">
+  </video>
+</div>
+
+# Kamal Al Masoudi
 Jeg bygger små, ryddige labber og tydelige README-er – forklarer **hva** jeg gjorde,
 **hvorfor**, og **hva man kan lære**. Alt i etisk, fiktivt labmiljø.
 
