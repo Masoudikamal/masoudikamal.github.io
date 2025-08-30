@@ -1,0 +1,34 @@
+﻿<link rel="icon" href="/assets/avatar.jpg">
+<style>
+/* litt strammere typografi og luft */
+.masthead { backdrop-filter: blur(2px); }
+.page__hero--overlay { padding: 5rem 0 4rem; }
+.page__title { letter-spacing: .2px; }
+
+/* knappestil */
+.btn--primary {
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,.15);
+  box-shadow: 0 6px 18px rgba(0,0,0,.25);
+}
+
+/* “kort” i feature_row ser mer card-aktige ut */
+.feature__wrapper .archive__item {
+  border: 1px solid rgba(255,255,255,.08);
+  border-radius: 14px;
+  padding: 1rem 1.2rem;
+  box-shadow: 0 8px 20px rgba(0,0,0,.25);
+  background: rgba(20,20,20,.6);
+}
+.feature__wrapper .archive__item-title {
+  margin-top: .25rem;
+}
+.feature__wrapper .archive__item-excerpt {
+  opacity: .9;
+}
+
+/* grid-gap litt større på store skjermer */
+@media (min-width: 992px){
+  .feature__wrapper { gap: 1.2rem; }
+}
+</style>
