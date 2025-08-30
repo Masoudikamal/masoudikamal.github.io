@@ -1,12 +1,16 @@
 ﻿title: Kamal Al Masoudi
 description: Security labs & projects
+minimal_mistakes_skin: dark
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
 
-# (valgfritt) sosiale lenker i footer/header
+# logo i topp (masthead)
+logo: /assets/avatar.jpg
+
 author:
   name: "Kamal Al Masoudi"
+  avatar: /assets/avatar.jpg
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -18,6 +22,5 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:kamal.a.masoudi@gmail.com"
 
-# Slå på header-nav via datafil (lager vi under)
 navigation:
   enabled: true

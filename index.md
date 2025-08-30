@@ -5,7 +5,7 @@ subtitle: "Security labs & projects"
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/header.jpg   # valgfritt, kan fjernes
+  overlay_image: /assets/header.jpg
 intro: |
   Jeg bygger små, ryddige labber og tydelige README-er – forklarer hva jeg gjorde,
   hvorfor jeg gjorde det, og hva man kan lære.
@@ -43,3 +43,7 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+## Kontakt {#contact}
+- E-post: <mailto:kamal.a.masoudi@gmail.com>
+- LinkedIn: <https://www.linkedin.com/in/kamal-al-masoudi>
