@@ -50,9 +50,10 @@ feature_row2:
 ---
 
 {% include feature_row id="feature_row" %}
-{% include feature_row id="feature_row2" %}
+<!-- feature_row2 hidden -->
 
 ## Kontakt {#contact}
 - E-post: <mailto:kamal.a.masoudi@gmail.com>
 - LinkedIn: <https://www.linkedin.com/in/kamal-al-masoudi>
+
 
