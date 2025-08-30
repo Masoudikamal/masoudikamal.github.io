@@ -1,9 +1,9 @@
 ﻿---
 layout: single
 title: "Prosjekter"
+permalink: /projects/
 ---
 
-Her finner du en oversikt og lenker til repoene:
 - [C Programming Labs](https://github.com/Masoudikamal/c-programming-labs)
 - [ArtifactManager (Java OOP)](https://github.com/Masoudikamal/ArtifactManager)
 - [Algoritmer & datastrukturer (Java)](https://github.com/Masoudikamal/algorithms-and-datastructures)

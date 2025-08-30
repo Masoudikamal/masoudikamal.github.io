@@ -1,5 +1,4 @@
 ﻿---
-last_modified_at: 2025-08-30T18:31:14
 layout: splash
 title: "Kamal Al Masoudi"
 subtitle: "Security labs & projects"
@@ -7,9 +6,13 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/header.jpg
+last_modified_at: 2025-08-30T19:07:56
+
 intro: |
-  Jeg bygger små, ryddige labber og tydelige README-er – forklarer hva jeg gjorde,
-  hvorfor jeg gjorde det, og hva man kan lære.
+  Jeg bygger små, ryddige labber og tydelige README-er – forklarer **hva** jeg gjorde,
+  **hvorfor** jeg gjorde det, og **hva man kan lære**. Alt i etisk, fiktivt labmiljø.
+
+# Rad 1
 feature_row:
   - title: "C Programming Labs"
     excerpt: "Portefølje med C-labber (metadata, flights, threads, SMTP-liknende server, TEA klient/dekryptering) – med CI-build."
@@ -26,6 +29,9 @@ feature_row:
     url: "https://github.com/Masoudikamal/algorithms-and-datastructures"
     btn_label: "Åpne repo"
     btn_class: "btn--primary"
+
+# Rad 2
+feature_row2:
   - title: "vsftpd 2.3.4 → shell"
     excerpt: "Nmap + Metasploit; opprettet lab-bruker og verifiserte innlogging."
     url: "https://github.com/Masoudikamal/vsftpd-234-backdoor-lab"
@@ -43,10 +49,9 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row %}
+{% include feature_row id="feature_row" %}
+{% include feature_row id="feature_row2" %}
 
 ## Kontakt {#contact}
 - E-post: <mailto:kamal.a.masoudi@gmail.com>
 - LinkedIn: <https://www.linkedin.com/in/kamal-al-masoudi>
-
-
