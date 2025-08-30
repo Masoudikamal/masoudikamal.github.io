@@ -1,4 +1,4 @@
-﻿<link rel="stylesheet" href="/assets/css/style.css">
+﻿<link rel="stylesheet" href="/assets/css/custom.css">
 
 Sikkerhetsentusiast som bygger små, ryddige labber og tydelige README-er.  
 Jeg forklarer hva jeg gjorde, hvorfor jeg gjorde det, og hva man kan lære.
@@ -53,3 +53,4 @@ Jeg forklarer hva jeg gjorde, hvorfor jeg gjorde det, og hva man kan lære.
 ## Kontakt
 - E-post: <mailto:kamal.a.masoudi@gmail.com>  
 - LinkedIn: <https://www.linkedin.com/in/kamal-al-masoudi>
+

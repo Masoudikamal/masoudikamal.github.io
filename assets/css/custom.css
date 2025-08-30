@@ -1,9 +1,4 @@
-﻿---
----
-
-@import "{{ site.theme }}";
-
-/* Kort-grid for prosjekter */
+﻿/* Kort-grid for prosjekter */
 .cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
