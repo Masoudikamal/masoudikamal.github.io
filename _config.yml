@@ -1,3 +1,23 @@
 ﻿title: Kamal Al Masoudi
 description: Security labs & projects
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+
+# (valgfritt) sosiale lenker i footer/header
+author:
+  name: "Kamal Al Masoudi"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Masoudikamal"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kamal-al-masoudi/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:kamal.a.masoudi@gmail.com"
+
+# Slå på header-nav via datafil (lager vi under)
+navigation:
+  enabled: true

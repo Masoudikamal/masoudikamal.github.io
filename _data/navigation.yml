@@ -1,0 +1,5 @@
+﻿main:
+  - title: "Prosjekter"
+    url: /projects/
+  - title: "Kontakt"
+    url: /#contact
