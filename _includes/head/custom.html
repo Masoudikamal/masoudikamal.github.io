@@ -67,3 +67,30 @@
 .hero-media img, .hero-media video{ width:100%; height:100%; object-fit:cover; display:block; }
 @media (min-width: 992px){ .hero-media{ height:160px; } }
 </style>
+<style>
+/* Slank typografi og smalere layout */
+:root { --fg:#e6e6e6; --muted:#a8a8a8; }
+body { font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+       font-size:15px; line-height:1.55; color:var(--fg); }
+.page { max-width: 860px; }
+
+/* Minimal hero-video */
+.hero-media{ position:relative; overflow:hidden; border-radius:12px;
+             margin:0 0 1rem 0; height:160px; }
+.hero-media video{ width:100%; height:100%; object-fit:cover; display:block; }
+
+/* Mindre tittel/lead */
+.page__title{ font-size:22px; font-weight:600; margin:.4rem 0 .25rem }
+.page__lead { font-size:15px; color:var(--muted) }
+
+/* Tynn prosjektliste */
+.projlist{ list-style:none; margin:1rem 0 0; padding:0 }
+.proj{ padding:.75rem 0; border-bottom:1px solid rgba(255,255,255,.08) }
+.proj:last-child{ border-bottom:0 }
+.proj-title a{ color:var(--fg); text-decoration:none; font-weight:600 }
+.proj-title a:hover{ text-decoration:underline }
+.proj-desc{ color:var(--muted); margin-top:.25rem }
+.proj-tags{ margin-top:.4rem; display:flex; gap:.4rem; flex-wrap:wrap }
+.tag{ font-size:.78rem; padding:.12rem .48rem; border-radius:999px;
+      border:1px solid rgba(255,255,255,.12); color:var(--muted) }
+</style>
