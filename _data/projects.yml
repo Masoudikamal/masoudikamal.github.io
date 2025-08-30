@@ -1,0 +1,34 @@
+﻿- title: C Programming Labs
+  url: https://github.com/Masoudikamal/c-programming-labs
+  desc: Portefølje med C-labber (metadata, flights, threads, SMTP-liknende server, TEA klient/dekryptering) – med CI-build.
+  tags: [C, Linux, Threads]
+
+- title: ArtifactManager (Java OOP)
+  url: https://github.com/Masoudikamal/ArtifactManager
+  desc: Konsollapp som lagrer/leser historiske gjenstander via JDBC/MySQL.
+  tags: [Java, JDBC, MySQL]
+
+- title: Algoritmer & datastrukturer (Java)
+  url: https://github.com/Masoudikamal/algorithms-and-datastructures
+  desc: Bubble, Insertion, Merge og Quick; rapport + kjøreinstruksjoner.
+  tags: [Java, Algorithms]
+
+- title: vsftpd 2.3.4 → shell
+  url: https://github.com/Masoudikamal/vsftpd-234-backdoor-lab
+  desc: Nmap + Metasploit; opprettet lab-bruker og verifiserte innlogging.
+  tags: [Pentest, Metasploit]
+
+- title: BeEF XSS (DVWA)
+  url: https://github.com/Masoudikamal/beef-xss-dvwa-lab
+  desc: Hook via XSS; offer dukker opp i BeEF (sladdede detaljer).
+  tags: [XSS, BeEF]
+
+- title: Mimikatz NTLM → John the Ripper
+  url: https://github.com/Masoudikamal/mimikatz-ntlm-crack-lab
+  desc: Hentet NTLM for lab-bruker og bekreftet passord ved cracking.
+  tags: [Windows, Forensics]
+
+- title: MS17-010 (EternalBlue) + nettverksspor
+  url: https://github.com/Masoudikamal/ms17-010-eternalblue-trace-lab
+  desc: Påviste sårbarhet, samlet netsh trace og viste HTTP-innlogging i Wireshark.
+  tags: [SMB, Exploit, Tracing]

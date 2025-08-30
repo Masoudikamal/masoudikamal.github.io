@@ -1,0 +1,9 @@
+﻿<ul class="project-list">
+{% for p in site.data.projects %}
+  <li>
+    <h3><a href="{{ p.url }}">{{ p.title }}</a></h3>
+    {% if p.desc %}<p class="desc">{{ p.desc }}</p>{% endif %}
+    {% if p.tags %}<div class="tags">{% for t in p.tags %}<span class="tag">{{ t }}</span>{% endfor %}</div>{% endif %}
+  </li>
+{% endfor %}
+</ul>
