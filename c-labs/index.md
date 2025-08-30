@@ -1,7 +1,5 @@
 ﻿<link rel="stylesheet" href="/assets/css/style.css">
 
-<link rel="stylesheet" href="/assets/css/style.css">
-
 # C Programming Labs
 
 ![Build](https://github.com/Masoudikamal/c-programming-labs/actions/workflows/build.yml/badge.svg)
@@ -15,5 +13,3 @@ Kort presentasjon og kjapp navigasjon til delprosjektene:
 - 06-tea-client-decryptor
 
 Åpne repo: <https://github.com/Masoudikamal/c-programming-labs>
-
-
