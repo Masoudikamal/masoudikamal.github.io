@@ -1,5 +1,5 @@
 ﻿---
-last_modified_at: 2025-08-30T18:20:40
+last_modified_at: 2025-08-30T18:31:14
 layout: splash
 title: "Kamal Al Masoudi"
 subtitle: "Security labs & projects"
@@ -48,4 +48,5 @@ feature_row:
 ## Kontakt {#contact}
 - E-post: <mailto:kamal.a.masoudi@gmail.com>
 - LinkedIn: <https://www.linkedin.com/in/kamal-al-masoudi>
+
 
