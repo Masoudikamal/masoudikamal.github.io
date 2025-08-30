@@ -1,0 +1,33 @@
+﻿---
+---
+
+@import "{{ site.theme }}";
+
+/* Kort-grid for prosjekter */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  box-shadow: 0 4px 14px rgba(0,0,0,.08);
+  border: 1px solid rgba(0,0,0,.06);
+}
+.card h3 { margin: 0 0 .5rem 0; }
+.card p  { margin: 0 0 .75rem 0; }
+.badges { display:flex; flex-wrap:wrap; gap:.5rem; }
+.badge  { font-size:.8rem; padding:.2rem .5rem; border-radius:999px; border:1px solid rgba(0,0,0,.12); }
+.card a.btn {
+  display:inline-block; padding:.45rem .75rem; border-radius:8px;
+  border:1px solid rgba(0,0,0,.14); text-decoration:none;
+}
+
+/* Mørk-modus hint */
+@media (prefers-color-scheme: dark) {
+  .card  { background:#111; border-color:#222; }
+  .badge { border-color:#333; }
+}
