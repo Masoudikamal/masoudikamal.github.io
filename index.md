@@ -6,6 +6,7 @@ last_modified_at: 2025-08-30T20:36:53
 ---
 
 <div class="hero-media"><img src="/assets/hero.gif" alt="hero"></div>
+<div class="hero-media"><img src="/assets/hero.gif" alt="hero"></div>
 <div class="hero-video">
   <video autoplay loop muted playsinline>
     <source src="/assets/hero.mp4" type="video/mp4">
@@ -21,4 +22,5 @@ Jeg bygger små, ryddige labber og tydelige README-er – forklarer **hva** jeg 
 ## Kontakt {#contact}
 - E-post: <mailto:kamal.a.masoudi@gmail.com>
 - LinkedIn: <https://www.linkedin.com/in/kamal-al-masoudi>
+
 
