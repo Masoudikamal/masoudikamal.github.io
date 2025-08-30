@@ -1,7 +1,5 @@
 ﻿<link rel="stylesheet" href="/assets/css/style.css">
 
-# Kamal Al Masoudi
-
 Sikkerhetsentusiast som bygger små, ryddige labber og tydelige README-er.  
 Jeg forklarer hva jeg gjorde, hvorfor jeg gjorde det, og hva man kan lære.
 
