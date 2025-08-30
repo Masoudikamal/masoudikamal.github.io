@@ -27,3 +27,9 @@
   desc: Hentet NTLM for lab-bruker og bekreftet passord ved cracking.
   url: https://github.com/Masoudikamal/mimikatz-ntlm-crack-lab
   tags: [Windows, Forensics]
+
+- title: Ny lab
+  desc: Kort beskrivelse.
+  url: https://github.com/Masoudikamal/ny-lab
+  tags: [Pentest, Notes]
+
