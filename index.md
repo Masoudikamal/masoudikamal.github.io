@@ -5,7 +5,7 @@ subtitle: "Security labs & projects"
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/header.jpg
+  overlay_image: /assets/hero.gif
 last_modified_at: 2025-08-30T19:07:56
 
 intro: |
@@ -55,3 +55,4 @@ feature_row2:
 ## Kontakt {#contact}
 - E-post: <mailto:kamal.a.masoudi@gmail.com>
 - LinkedIn: <https://www.linkedin.com/in/kamal-al-masoudi>
+
