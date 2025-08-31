@@ -1,35 +1,29 @@
 ﻿- title: C Programming Labs
-  desc: Portefølje med C-labber (metadata, flights, threads, SMTP-liknende server, TEA klient/dekryptering) – med CI-build.
+  desc: Portefølje i C: fil-metadata (djb2, bokstavfrekvens), flight-liste (lenkede lister), trådet byte-teller, SMTP-liknende server og TEA-klient/dekryptering. Makefile-bygg og fokus på ren, portabel kode.
   url: https://github.com/Masoudikamal/c-programming-labs
   tags: [C, Linux, Threads]
 
 - title: ArtifactManager (Java OOP)
-  desc: Konsollapp som lagrer/leser historiske gjenstander via JDBC/MySQL.
+  desc: Konsollapp som bruker JDBC/MySQL for å lagre og hente historiske gjenstander. OOP-design (abstrakt baseklasse + subklasser), enkel CLI-meny og konfig via properties.
   url: https://github.com/Masoudikamal/ArtifactManager
-  tags: [Java, JDBC]
+  tags: [Java, JDBC, OOP]
 
 - title: Algoritmer & datastrukturer (Java)
-  desc: Bubble, Insertion, Merge og Quick; rapport + kjøreinstruksjoner.
+  desc: Implementerte Bubble, Insertion, Merge og Quick; drøfter kompleksitet og praktiske egenskaper. Strukturert kodebase + rapport og kjøreinstruksjoner.
   url: https://github.com/Masoudikamal/algorithms-and-datastructures
   tags: [Java, Algorithms]
 
 - title: vsftpd 2.3.4 → shell
-  desc: Nmap + Metasploit; opprettet lab-bruker og verifiserte innlogging.
+  desc: Full kjede fra Nmap-funn til Metasploit-shell på lab-boks. Oppretter egen lab-bruker og verifiserer innlogging – med tydelig etikk-disclaimer.
   url: https://github.com/Masoudikamal/vsftpd-234-backdoor-lab
   tags: [Pentest, Metasploit]
 
 - title: BeEF XSS (DVWA)
-  desc: Hook via XSS; offer dukker opp i BeEF (sladdede detaljer).
+  desc: Injiserte hook.js i DVWA og observerte at offer dukker opp i BeEF. Viser hva BeEF faktisk eksponerer, med sladdede detaljer og læringspunkter.
   url: https://github.com/Masoudikamal/beef-xss-dvwa-lab
   tags: [XSS, BeEF]
 
 - title: Mimikatz NTLM → John the Ripper
-  desc: Hentet NTLM for lab-bruker og bekreftet passord ved cracking.
+  desc: Henter NTLM-hash for en lab-bruker og verifiserer passord via cracking i JtR. Diskuterer loggspor og forsvarstiltak.
   url: https://github.com/Masoudikamal/mimikatz-ntlm-crack-lab
   tags: [Windows, Forensics]
-
-- title: Ny lab
-  desc: Kort beskrivelse.
-  url: https://github.com/Masoudikamal/ny-lab
-  tags: [Pentest, Notes]
-

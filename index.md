@@ -1,8 +1,8 @@
 ﻿---
 layout: single
-title: "Kamal Al Masoudi"
+title: "Hjem"
 classes: wide
-last_modified_at: 2025-08-30T23:42:36
+last_modified_at: 2025-08-31T07:19:41
 ---
 
 <div class="hero-media">
@@ -13,20 +13,19 @@ last_modified_at: 2025-08-30T23:42:36
 
 <div class="home-grid">
   <aside class="about">
-    <img class="about-avatar" src="/assets/avatar.jpg" alt="Kamal Al Masoudi">
+    <img class="about-avatar" src="/assets/about.jpg" alt="Portrett">
     <h2>Om meg</h2>
-    <p>Student og sikkerhetsentusiast. Jeg bygger små, ryddige labber og skriver tydelige README-er.</p>
+    <p>Cybersikkerhetsstudent og sikkerhetsentusiast som liker å bygge små, ryddige labber og skrive tydelige README-er. Jobber praktisk med pentesting og defensiv sikkerhet, og forklarer alltid hva jeg gjorde, hvorfor – og hva man kan lære.</p>
+    <p><strong>Nylige roller:</strong> Penetrasjonstester (Sikkerhets Studentene), veileder/studentassistent (Høyskolen Kristiania) og teknisk operatør (Skan-Kontroll). Profil og nøkkelord basert på CV (SIEM/Splunk, KC7, Nmap, ZAP, Nessus, EDR, Linux/Windows, Java/C/Python/JS/SQL). :contentReference[oaicite:0]{index=0}</p>
     <ul>
-      <li>Offensiv + defensiv sikkerhet</li>
-      <li>Java & C, Git/GitHub</li>
-      <li>Kali, Windows, MySQL</li>
+      <li>Offensiv + defensiv sikkerhet, hendelseshåndtering</li>
+      <li>Linux (Kali/Ubuntu), Windows Server, nettverksanalyse (Wireshark)</li>
+      <li>Utvikling: Java, C, Python, JavaScript, SQL</li>
     </ul>
   </aside>
 
   <section>
-    <h1>Kamal Al Masoudi</h1>
-    <p class="page__lead">Jeg bygger små, ryddige labber og tydelige README-er – forklarer <strong>hva</strong> jeg gjorde,
-    <strong>hvorfor</strong>, og <strong>hva man kan lære</strong>. Alt i etisk, fiktivt labmiljø.</p>
+    <p class="page__lead">Jeg bygger labber i etisk, fiktivt miljø – med dokumentasjon, sladdede skjermbilder og små “hva betyr dette?”-forklaringer.</p>
 
     {% include projects.html %}
 
