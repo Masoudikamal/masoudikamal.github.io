@@ -6,7 +6,7 @@ last_modified_at: 2025-08-31T07:19:41
 ---
 
 <div class="hero-media">
-  <video autoplay muted loop playsinline poster="/assets/header.jpg">
+  <video autoplay muted loop playsinline poster="/assets">
     <source src="/assets/hero.mp4" type="video/mp4">
   </video>
 </div>
